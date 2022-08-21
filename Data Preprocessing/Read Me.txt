@@ -1,7 +1,0 @@
------------------------------------------------------------------------------------------------------------------------------
-
-I have submitted both py and ipynb files.
-Just ipynb file will help in understanding column deletion and Addition operations with the help of graphs 
-
-
-Ty
